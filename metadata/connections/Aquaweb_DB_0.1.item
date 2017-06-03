@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_rUTXgEhrEeehi7P7jSXHWg" name="Aquaweb_DB" id="_T1dugEhrEeehi7P7jSXHWg" label="Aquaweb_DB" dataPackage="_CMdbAEhsEeehi7P7jSXHWg" ContextMode="true" ContextId="_B8xZMEhsEeehi7P7jSXHWg" contextName="Default" DatabaseType="MySQL" DriverClass="org.gjt.mm.mysql.Driver" URL="jdbc:mysql://localhost:3306/aquaweb?noDatetimeStringSync=true" dbVersionString="MYSQL_5" Port="context.Aquaweb_DB_Port" Username="context.Aquaweb_DB_Login" Password="context.Aquaweb_DB_Password" ServerName="context.Aquaweb_DB_Server" DatasourceName="" FileFieldName="" SID="context.Aquaweb_DB_Database" SqlSynthax="Sintaxis SQL" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="context.Aquaweb_DB_AdditionalParams" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_rUbTUEhrEeehi7P7jSXHWg" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_rU3_QEhrEeehi7P7jSXHWg" tag="package filter" value=""/>
+    <taggedValue xmi:id="_rU83wEhrEeehi7P7jSXHWg" tag="Status" value=""/>
+    <taggedValue xmi:id="_rU83wUhrEeehi7P7jSXHWg" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_rU83wkhrEeehi7P7jSXHWg" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_rU83w0hrEeehi7P7jSXHWg" tag="Description" value=""/>
+    <taggedValue xmi:id="_rU83xEhrEeehi7P7jSXHWg" tag="Author" value=""/>
+    <taggedValue xmi:id="_rU83xUhrEeehi7P7jSXHWg" tag="otherParameter"/>
+    <taggedValue xmi:id="_rVBwQEhrEeehi7P7jSXHWg" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_rVBwQUhrEeehi7P7jSXHWg" tag="DB ProductVersion" value="5.7.18-log"/>
+    <taggedValue xmi:id="_rVBwQkhrEeehi7P7jSXHWg" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_rUbTUUhrEeehi7P7jSXHWg" key="CONN_PARA_KEY_USERNAME" value="context.Aquaweb_DB_Login"/>
+    <parameters xmi:id="_Amm3gEhsEeehi7P7jSXHWg" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_CMdbAEhsEeehi7P7jSXHWg" name="aquaweb" dataManager="_rUTXgEhrEeehi7P7jSXHWg"/>
+</xmi:XMI>
