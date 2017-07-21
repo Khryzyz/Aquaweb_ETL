@@ -1,0 +1,10 @@
+package routines;
+
+import java.util.UUID;
+
+public class Aquaweb_Utils {
+
+    public static String GenerateUUID() {
+        return UUID.randomUUID().toString();
+    }
+}

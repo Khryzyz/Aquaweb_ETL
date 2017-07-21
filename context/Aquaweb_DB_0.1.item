@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
   <talendfile:ContextType xmi:id="_B86jIEhsEeehi7P7jSXHWg" confirmationNeeded="false" name="Default">
-    <contextParameter xmi:id="_B86jIUhsEeehi7P7jSXHWg" comment="" name="Aquaweb_DB_Login" prompt="Aquaweb_DB_Login?" promptNeeded="false" type="id_String" value="roota"/>
+    <contextParameter xmi:id="_B86jIUhsEeehi7P7jSXHWg" comment="" name="Aquaweb_DB_Login" prompt="Aquaweb_DB_Login?" promptNeeded="false" type="id_String" value="root"/>
     <contextParameter xmi:id="_B86jIkhsEeehi7P7jSXHWg" comment="" name="Aquaweb_DB_Port" prompt="Aquaweb_DB_Port?" promptNeeded="false" type="id_String" value="3306"/>
     <contextParameter xmi:id="_B86jI0hsEeehi7P7jSXHWg" comment="" name="Aquaweb_DB_AdditionalParams" prompt="Aquaweb_DB_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true"/>
     <contextParameter xmi:id="_B86jJEhsEeehi7P7jSXHWg" comment="" name="Aquaweb_DB_Password" prompt="Aquaweb_DB_Password?" promptNeeded="false" type="id_Password" value="NZNgK6DuncI="/>

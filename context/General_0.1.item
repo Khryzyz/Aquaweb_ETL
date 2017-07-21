@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_K7re0Eh1EeewiNr0lLbQdw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_K7re0Uh1EeewiNr0lLbQdw" comment="" name="nombreArchivoLog" prompt="nombreArchivoLog?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_H7qjoG2GEeeimJu_PokyeA" comment="" name="sensor_actual" prompt="sensor_actual?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_H7qjoW2GEeeimJu_PokyeA" comment="" name="proceso_actual" prompt="proceso_actual?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_K3Wp8G2MEeeimJu_PokyeA" comment="" name="valor_actual" prompt="valor_actual?" promptNeeded="false" type="id_Float" value=""/>
+</talendfile:ContextType>

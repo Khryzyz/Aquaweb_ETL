@@ -12,6 +12,10 @@
     <taggedValue xmi:id="_rVBwQEhrEeehi7P7jSXHWg" tag="DB ProductName" value="MySQL"/>
     <taggedValue xmi:id="_rVBwQUhrEeehi7P7jSXHWg" tag="DB ProductVersion" value="5.7.18-log"/>
     <taggedValue xmi:id="_rVBwQkhrEeehi7P7jSXHWg" tag="DB IdentifierQuoteString" value="`"/>
+    <queries xmi:id="_iQG5gEhzEeewiNr0lLbQdw">
+      <query xmi:id="_iQHgkEhzEeewiNr0lLbQdw" id="_iQG5gUhzEeewiNr0lLbQdw" comment="Obtiene el id de los procesos activos" label="getIdProcesoActivo" value="SELECT &#xD;&#xA;&#x9;pro.id &#xD;&#xA;FROM&#xD;&#xA;&#x9;aquaweb.proceso as pro&#xD;&#xA;WHERE &#xD;&#xA;&#x9;pro.estado=1;"/>
+      <query xmi:id="_Db1-0G2FEeeimJu_PokyeA" id="_Db1XwG2FEeeimJu_PokyeA" label="getIdSensorActivo" value="SELECT &#xD;&#xA;&#x9;sen.id &#xD;&#xA;FROM&#xD;&#xA;&#x9;aquaweb.tipo_sensor as sen&#xD;&#xA;WHERE &#xD;&#xA;&#x9;sen.estado=1;"/>
+    </queries>
     <parameters xmi:id="_rUbTUUhrEeehi7P7jSXHWg" key="CONN_PARA_KEY_USERNAME" value="context.Aquaweb_DB_Login"/>
     <parameters xmi:id="_Amm3gEhsEeehi7P7jSXHWg" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
   </TalendMetadata:DatabaseConnection>

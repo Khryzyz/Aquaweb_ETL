@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_o8XWIEhzEeewiNr0lLbQdw" name="repository.metadataGenericSchema" dataPackage="_o8XWIUhzEeewiNr0lLbQdw"/>
+  <TalendMetadata:GenericPackage xmi:id="_o8XWIUhzEeewiNr0lLbQdw" name="repository.metadataGenericSchema" dataManager="_o8XWIEhzEeewiNr0lLbQdw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_o8XWIkhzEeewiNr0lLbQdw" id="_kp0i4EhzEeewiNr0lLbQdw" label="getIdProcesoActivo">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_o8XWI0hzEeewiNr0lLbQdw" name="id" label="id" length="-1" talendType="id_Integer"/>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

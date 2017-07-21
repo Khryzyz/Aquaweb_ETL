@@ -7,6 +7,10 @@
     <documentationStatus xmi:id="_f0JmsEhuEee77_EvIcBSIw" label="unchecked" code="UCK"/>
     <documentationStatus xmi:id="_f0JmsUhuEee77_EvIcBSIw" label="checked" code="CHK"/>
     <documentationStatus xmi:id="_f0JmskhuEee77_EvIcBSIw" label="validated" code="VAL"/>
+    <componentsSettings xmi:id="_wHhggGmJEeeYZo_FQQ68zA" name="DI|tHashOutput" family="Technical"/>
+    <componentsSettings xmi:id="_wHhggWmJEeeYZo_FQQ68zA" name="DI|tArrayIn" family="Technical"/>
+    <componentsSettings xmi:id="_wHhggmmJEeeYZo_FQQ68zA" name="DI|tArray" family="Technical"/>
+    <componentsSettings xmi:id="_wHhgg2mJEeeYZo_FQQ68zA" name="DI|tHashInput" family="Technical"/>
     <statAndLogsSettings xmi:id="_yG3wIEhuEeejTeyfghVnjw">
       <parameters xmi:id="_yG4XMEhuEeejTeyfghVnjw">
         <elementParameter xmi:id="_yJBsQEhuEeejTeyfghVnjw" field="CHECK" name="UPDATE_COMPONENTS" value="false" contextMode="false"/>
@@ -98,8 +102,16 @@
       <relatedItems xmi:id="_pXnEikhvEeejTeyfghVnjw" id="TalendDataGenerator" version="Latest" type="routine"/>
       <relatedItems xmi:id="_pXnEi0hvEeejTeyfghVnjw" id="TalendDate" version="Latest" type="routine"/>
       <relatedItems xmi:id="_pXnEjEhvEeejTeyfghVnjw" id="Mathematical" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_pXnEjUhvEeejTeyfghVnjw" id="_MbU7YEhvEeejTeyfghVnjw - metadata" version="Latest" type="schema"/>
+      <relatedItems xmi:id="_z2sVsEhzEeewiNr0lLbQdw" id="_T1dugEhrEeehi7P7jSXHWg - getIdProcesoActivo" version="Latest" type="query"/>
+      <relatedItems xmi:id="_z2sVsUhzEeewiNr0lLbQdw" id="_MbU7YEhvEeejTeyfghVnjw - salidaLog" version="Latest" type="schema"/>
+      <relatedItems xmi:id="_z2sVskhzEeewiNr0lLbQdw" id="_o8WIAEhzEeewiNr0lLbQdw - getIdProcesoActivo" version="Latest" type="schema"/>
+      <relatedItems xmi:id="_8tjMMEh0EeewiNr0lLbQdw" id="Aquaweb_Utils" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_RXfEoEh1EeewiNr0lLbQdw" id="_K7jjAEh1EeewiNr0lLbQdw" version="Latest" type="context"/>
+      <relatedItems xmi:id="_wdJqwG2FEeeimJu_PokyeA" id="_T1dugEhrEeehi7P7jSXHWg - getIdSensorActivo" version="Latest" type="query"/>
+      <relatedItems xmi:id="_wdJqwW2FEeeimJu_PokyeA" id="_FZD5cG2FEeeimJu_PokyeA - getIdSensorActivo" version="Latest" type="schema"/>
+      <relatedItems xmi:id="_tmLHgG2OEeeimJu_PokyeA" id="_O0gKEG2OEeeimJu_PokyeA - sensor" version="Latest" type="schema"/>
     </ItemsRelations>
+    <deletedFolders>code/routines/Aquawerb_Rutinas</deletedFolders>
     <migrationTask xmi:id="_fxLLMEhuEee77_EvIcBSIw" id="org.talend.designer.core.ui.preferences.migration.ChangeMysqlVersionForProjectSetting" breaks="5.2.0" version="5.1.3" status="ok"/>
     <migrationTask xmi:id="_fxLLMUhuEee77_EvIcBSIw" id="org.talend.designer.core.ui.preferences.migration.ChangeOracleVersionForProjectSetting" breaks="5.2.0" version="5.2.1" status="ok"/>
     <migrationTask xmi:id="_fxLyQEhuEee77_EvIcBSIw" id="org.talend.designer.maven.ui.ConfigMavenRepositoryRemove" breaks="6.0.1" version="6.0.2" status="ok"/>
