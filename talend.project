@@ -111,7 +111,6 @@
       <relatedItems xmi:id="_wdJqwW2FEeeimJu_PokyeA" id="_FZD5cG2FEeeimJu_PokyeA - getIdSensorActivo" version="Latest" type="schema"/>
       <relatedItems xmi:id="_tmLHgG2OEeeimJu_PokyeA" id="_O0gKEG2OEeeimJu_PokyeA - sensor" version="Latest" type="schema"/>
     </ItemsRelations>
-    <deletedFolders>code/routines/Aquawerb_Rutinas</deletedFolders>
     <migrationTask xmi:id="_fxLLMEhuEee77_EvIcBSIw" id="org.talend.designer.core.ui.preferences.migration.ChangeMysqlVersionForProjectSetting" breaks="5.2.0" version="5.1.3" status="ok"/>
     <migrationTask xmi:id="_fxLLMUhuEee77_EvIcBSIw" id="org.talend.designer.core.ui.preferences.migration.ChangeOracleVersionForProjectSetting" breaks="5.2.0" version="5.2.1" status="ok"/>
     <migrationTask xmi:id="_fxLyQEhuEee77_EvIcBSIw" id="org.talend.designer.maven.ui.ConfigMavenRepositoryRemove" breaks="6.0.1" version="6.0.2" status="ok"/>
